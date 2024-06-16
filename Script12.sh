@@ -27,6 +27,7 @@ fi
 
 
 if [ -n $a ]
+echo "hi"
 then
  echo "-n $a : string length is not zero"
 else
